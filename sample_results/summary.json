@@ -1,0 +1,51 @@
+{
+  "run_id": "716c1468d3c1d678",
+  "settings": {
+    "minimum_revenue": 110000,
+    "allow_revenue_exceptions": false,
+    "weather_shock": 0,
+    "delay_buffer_hours": 6,
+    "stale_hours": 12,
+    "max_bundle": 4,
+    "enable_davao": true,
+    "road_cost_per_km": 31,
+    "contribution_weight": 0.6,
+    "reliability_weight": 0.2,
+    "coverage_weight": 0.1,
+    "loaded_km_weight": 0.1,
+    "max_daily_drive": 8,
+    "rest_hours": 10,
+    "recovery_buffer_hours": 12
+  },
+  "metrics": {
+    "recommended_trucks": 4,
+    "eligible_trucks": 5,
+    "matched_loads": 15,
+    "eligible_loads": 34,
+    "revenue_php": 628079.0,
+    "selected_trip_contribution_php": 217693.0,
+    "empty_baseline_cost_php": 480480.0,
+    "incremental_gain_php": 596683.0,
+    "fleet_contribution_php": 116203.0,
+    "fleet_loaded_km_ratio": 0.7680097680097681,
+    "average_revenue_php": 157019.75,
+    "average_fill_ratio": 0.9875,
+    "selected_contractual_loads": 4
+  },
+  "solver": {
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "optimal": true,
+    "gap": 0.0
+  },
+  "delay_model": {
+    "verified_rows": 868,
+    "excluded_unverified": 32,
+    "train_rows": 520,
+    "calibration_rows": 174,
+    "test_rows": 174,
+    "mae_hours": 2.073908002577558,
+    "baseline_mae_hours": 4.764680813439434,
+    "p90_test_coverage": 0.9137931034482759,
+    "residual_p90_hours": 4.029541338743596
+  }
+}

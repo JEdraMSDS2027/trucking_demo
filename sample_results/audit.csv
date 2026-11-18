@@ -1,0 +1,76 @@
+entity,id,eligible,reason
+loads,LOAD-001,False,Hazardous cargo excluded
+loads,LOAD-002,False,Temperature-controlled cargo excluded
+loads,LOAD-003,False,Very high-value cargo excluded
+loads,LOAD-004,False,Crane handling excluded
+loads,LOAD-005,False,"Unverified, stale or future-dated source data"
+loads,LOAD-006,False,"Unverified, stale or future-dated source data"
+loads,LOAD-007,True,"No feasible bundle: Pallet dimensions, Pallet capacity"
+loads,LOAD-008,True,"No feasible bundle: Payload or volume capacity, Pallet capacity"
+loads,LOAD-009,False,Invalid delivery window
+loads,LOAD-010,False,Pickup window expired or invalid
+loads,LOAD-011,False,Davao branch disabled or cross-dock unconfirmed
+loads,LOAD-012,False,Packaging or dimensions not verified
+loads,LOAD-013,True,"Feasible; held by revenue, contribution or score policy"
+loads,LOAD-014,True,Selected in fleet recommendation
+loads,LOAD-015,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-016,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-017,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-018,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-019,True,Selected in fleet recommendation
+loads,LOAD-020,True,Selected in fleet recommendation
+loads,LOAD-021,True,Selected in fleet recommendation
+loads,LOAD-022,True,"Feasible; held by revenue, contribution or score policy"
+loads,LOAD-023,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-024,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-025,True,"Feasible; held by revenue, contribution or score policy"
+loads,LOAD-026,True,Selected in fleet recommendation
+loads,LOAD-027,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-028,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-029,True,Selected in fleet recommendation
+loads,LOAD-030,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-031,True,Selected in fleet recommendation
+loads,LOAD-032,True,Selected in fleet recommendation
+loads,LOAD-033,True,Selected in fleet recommendation
+loads,LOAD-034,True,"Feasible; held by revenue, contribution or score policy"
+loads,LOAD-035,True,Selected in fleet recommendation
+loads,LOAD-036,True,Selected in fleet recommendation
+loads,LOAD-037,True,"Feasible; held by revenue, contribution or score policy"
+loads,LOAD-038,True,Selected in fleet recommendation
+loads,LOAD-039,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-040,True,Selected in fleet recommendation
+loads,LOAD-041,True,"Feasible; displaced by competing truck, load or ferry allocation"
+loads,LOAD-042,True,Selected in fleet recommendation
+loads,LOAD-043,True,Selected in fleet recommendation
+loads,LOAD-044,True,"Feasible; displaced by competing truck, load or ferry allocation"
+trucks,TRK-001,True,Passed source and pilot rules
+trucks,TRK-002,True,Passed source and pilot rules
+trucks,TRK-003,True,Passed source and pilot rules
+trucks,TRK-004,True,Passed source and pilot rules
+trucks,TRK-005,True,Passed source and pilot rules
+trucks,TRK-006,False,Insufficient initial driver hours; dispatch must rest or replace driver
+trucks,TRK-007,False,Equipment or availability outside dry-van pilot
+sailings,MA-01,True,Passed source and pilot rules
+sailings,MA-02,True,Passed source and pilot rules
+sailings,MA-03,True,Passed source and pilot rules
+sailings,MA-04,True,Passed source and pilot rules
+sailings,MA-05,True,Passed source and pilot rules
+sailings,MA-06,True,Passed source and pilot rules
+sailings,MA-07,True,Passed source and pilot rules
+sailings,MA-08,True,Passed source and pilot rules
+sailings,MA-09,True,Passed source and pilot rules
+sailings,MA-10,True,Passed source and pilot rules
+sailings,MA-11,True,Passed source and pilot rules
+sailings,MA-12,True,Passed source and pilot rules
+sailings,LS-01,True,Passed source and pilot rules
+sailings,LS-02,True,Passed source and pilot rules
+sailings,LS-03,True,Passed source and pilot rules
+sailings,LS-04,True,Passed source and pilot rules
+sailings,LS-05,True,Passed source and pilot rules
+sailings,LS-06,True,Passed source and pilot rules
+sailings,LS-07,True,Passed source and pilot rules
+sailings,LS-08,True,Passed source and pilot rules
+sailings,LS-09,True,Passed source and pilot rules
+sailings,LS-10,True,Passed source and pilot rules
+sailings,LS-11,True,Passed source and pilot rules
+sailings,LS-12,True,Passed source and pilot rules

@@ -1,0 +1,8 @@
+truck_id,equipment,location,release_time,recovery_base,northbound_collection,committed_northbound,available,pallet_capacity,payload_kg,volume_m3,max_pallet_length_m,max_pallet_width_m,max_pallet_height_m,tare_front_kg,tare_rear_kg,front_group_limit_kg,rear_group_limit_kg,gross_limit_kg,driver_hours_remaining,clean_for_food,data_verified,updated_at
+TRK-001,40ft_dry_van,Manila,2026-11-09 06:00:00+08:00,Cagayan de Oro,2026-11-15 06:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,8,True,True,2026-11-09 05:30:00+08:00
+TRK-002,40ft_dry_van,Calamba,2026-11-09 08:00:00+08:00,Cagayan de Oro,2026-11-15 08:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,8,True,True,2026-11-09 05:30:00+08:00
+TRK-003,40ft_dry_van,Manila,2026-11-09 10:00:00+08:00,Davao,2026-11-15 10:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,8,True,True,2026-11-09 05:30:00+08:00
+TRK-004,40ft_dry_van,Calamba,2026-11-09 12:00:00+08:00,Cagayan de Oro,2026-11-15 12:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,8,False,True,2026-11-09 05:30:00+08:00
+TRK-005,40ft_dry_van,Manila,2026-11-09 14:00:00+08:00,Davao,2026-11-15 14:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,8,True,True,2026-11-09 05:30:00+08:00
+TRK-006,40ft_dry_van,Calamba,2026-11-09 16:00:00+08:00,Cagayan de Oro,2026-11-15 16:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,3,True,True,2026-11-09 05:30:00+08:00
+TRK-007,open_flatbed,Manila,2026-11-09 18:00:00+08:00,Cagayan de Oro,2026-11-15 18:00:00+08:00,True,True,20,18000,60,1.2,1.0,2.4,5000,7000,10500,20000,30000,8,True,True,2026-11-09 05:30:00+08:00
